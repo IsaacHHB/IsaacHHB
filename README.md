@@ -24,3 +24,85 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaachhb&show_icons=true&locale=en&layout=compact" alt="isaachhb" /></p>
 
+## Projects
+
+<!-- PROJECTS BEGIN -->
+<table bordercolor="#33bef5">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Star Trek App</h3>
+      <br />
+      <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
+        <img src="https://user-images.githubusercontent.com/99921497/173469258-825fb1d6-149f-4504-96e0-e336d9c320a7.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/RascalTwo/FlappyBird" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://flappybird--rascaltwo.repl.co/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>JavaScript, HTML, CSS, JSON, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
+      </p>
+    </td>
+    <!-- <td width="50%" valign="top">
+      <h3 align="center">Tech Crunch Clone</h3>
+      <br />
+      <a href="https://rascaltwo.github.io/TechCrunchClone/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/9403665/157214139-e79c186a-0848-45c9-aa0f-79dc80127fed.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/RascalTwo/TechCrunchClone" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://rascaltwo.github.io/TechCrunchClone/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>TypeScript, GitHub, JavaScript, HTML, CSS, Shell, EJS, JSON, SVG, GitHub Actions, and NPM</strong> - incrementally Static Regenerating clone of the Tech Crunch Homepage
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Twitch User-Markers</h3>
+      <br />
+      <a href="https://github.com/RascalTwo/TwitchUserMarkers" target="_blank">
+        <video src="https://user-images.githubusercontent.com/9403665/155326353-e6eca746-ebb3-421b-99d1-674666e4554d.mp4" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/RascalTwo/TwitchUserMarkers" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Twitch, JavaScript, TypeScript, HTML, CSS, JSON, CSV, Chrome, Firefox, Greasemonkey, Web Extension, NPM, GraphQL, and REST</strong> - Userscript giving users the ability to create, read, update, and delete their own markers for Twitch.tv live streams and VODs
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Twitch Chat Poll Visualizer</h3>
+      <br />
+      <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
+        <video src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/RascalTwo/Twitch-Chat-Poll-Visualizer" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>Chart.js, Twitch, JavaScript, HTML, CSS, and JSON</strong> - Generator of Pie & Line charts showcasing the responses of a Twitch chat to impromptu polls
+      </p>
+    </td>
+  </tr> -->
+</table>
