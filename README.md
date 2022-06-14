@@ -77,7 +77,7 @@
       <h3 align="center">Native Dads Network</h3>
       <br />
       <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
-        <video src="https://user-images.githubusercontent.com/99921497/173471478-1d17787f-63f0-41f2-bc3f-4ccb5b39ea82.png" />
+        <img src="https://user-images.githubusercontent.com/99921497/173471478-1d17787f-63f0-41f2-bc3f-4ccb5b39ea82.png" />
       </a>
       <br />
       <p align="center">
