@@ -37,10 +37,10 @@
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/RascalTwo/FlappyBird" target="_blank">
+        <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://flappybird--rascaltwo.repl.co/" target="_blank">
+        <a href="https://startrekinfo.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
