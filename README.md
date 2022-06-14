@@ -43,8 +43,9 @@
         <a href="https://startrekinfo.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
-        <p>Also take a look at the back end code hosted on Heroku</p>
+        <p align="center">Also take a look at the back end code hosted on Heroku
         <a href="https://github.com/IsaacHHB/star-trek-api" target="_blank">
+          </p>
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
       </p>
