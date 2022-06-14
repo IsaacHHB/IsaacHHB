@@ -77,7 +77,7 @@
       <h3 align="center">Native Dads Network</h3>
       <br />
       <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
-        <video src="https://user-images.githubusercontent.com/99921497/173471185-737cef02-b47e-4b72-87c0-05cc34f03f99.png" />
+        <video src="https://user-images.githubusercontent.com/99921497/173471478-1d17787f-63f0-41f2-bc3f-4ccb5b39ea82.png" />
       </a>
       <br />
       <p align="center">
@@ -96,7 +96,7 @@
       <h3 align="center">Twitch Chat Poll Visualizer</h3>
       <br />
       <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
-        <video src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
+        <img src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
       </a>
       <br />
       <p align="center">
