@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Hollow Horn Bear</h1>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="50px"> <img src="https://media4.giphy.com/media/dlh7c1N7NqrH1ns4Yf/giphy.gif" height="50px">
+</p>
 <h3 align="center">A passionate full stack developer from California</h3>
 
 - 👨‍💻 All of my projects are available at [https://hollowhornbear.com/](https://hollowhornbear.com/)
