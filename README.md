@@ -47,6 +47,10 @@
       <p>
         <strong>JavaScript, HTML, CSS, JSON, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
       </p>
+      <p>Also take a look at the back end code hosted on Heroku</p>
+      <a href="https://github.com/IsaacHHB/star-trek-api" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
     </td>
     <!-- <td width="50%" valign="top">
       <h3 align="center">Tech Crunch Clone</h3>
