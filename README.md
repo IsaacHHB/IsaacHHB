@@ -52,44 +52,48 @@
         <strong>JavaScript, HTML, CSS, JSON, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
       </p>
     </td>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">Tech Crunch Clone</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Vegetarian API</h3>
       <br />
-      <a href="https://rascaltwo.github.io/TechCrunchClone/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/9403665/157214139-e79c186a-0848-45c9-aa0f-79dc80127fed.png" />
+      <a href="https://github.com/IsaacHHB/Veg-API" target="_blank">
+        <img src="https://user-images.githubusercontent.com/99921497/173470789-badb979d-8bf2-428a-9e71-06ffbb729493.png" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
+        <a href="https://github.com/IsaacHHB/Veg-API" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://startrekinfo.netlify.app/" target="_blank">
+        <a href="https://veggieapi.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>TypeScript, GitHub, JavaScript, HTML, CSS, Shell, EJS, JSON, SVG, GitHub Actions, and NPM</strong> - incrementally Static Regenerating clone of the Tech Crunch Homepage
+        <strong>JavaScript, HTML, CSS, JSON</strong> - Check the UPC barcode if the product you purchased is vegetarian.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Twitch User-Markers</h3>
+      <h3 align="center">Native Dads Network</h3>
       <br />
-      <a href="https://github.com/RascalTwo/TwitchUserMarkers" target="_blank">
-        <video src="https://user-images.githubusercontent.com/9403665/155326353-e6eca746-ebb3-421b-99d1-674666e4554d.mp4" />
+      <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
+        <video src="https://user-images.githubusercontent.com/99921497/173471185-737cef02-b47e-4b72-87c0-05cc34f03f99.png" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/RascalTwo/TwitchUserMarkers" target="_blank">
+        <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+      <p align="center">
+        <a href="https://nativedadsnetwork.org/" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
       </p>
       <p>
-        <strong>Twitch, JavaScript, TypeScript, HTML, CSS, JSON, CSV, Chrome, Firefox, Greasemonkey, Web Extension, NPM, GraphQL, and REST</strong> - Userscript giving users the ability to create, read, update, and delete their own markers for Twitch.tv live streams and VODs
+        <strong>JavaScript, HTML, CSS, SCSS, PHP, JSON</strong> - Client Project redoing their entire website
       </p>
     </td>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h3 align="center">Twitch Chat Poll Visualizer</h3>
       <br />
       <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
