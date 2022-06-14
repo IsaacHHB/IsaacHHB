@@ -84,9 +84,8 @@
         <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-      <p align="center">
         <a href="https://nativedadsnetwork.org/" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
       <p>
