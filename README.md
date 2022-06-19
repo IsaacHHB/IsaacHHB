@@ -47,12 +47,14 @@
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       <p align="center">Also take a look at the back end code hosted on Heroku</p>
+      <p align="center">
         <a href="https://github.com/IsaacHHB/star-trek-api" target="_blank">
           <img align="center" src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
       </p>
+      </p>
       <p>
-        <strong>JavaScript, HTML, CSS, JSON, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
+        <strong>JavaScript, HTML, CSS, JSON, Node.JS, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
       </p>
     </td>
     <td width="50%" valign="top">
