@@ -48,7 +48,7 @@
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
         <a href="https://startrekinfo.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       <p align="center">Also take a look at the back end code hosted on Heroku</p>
       <p align="center">
@@ -73,7 +73,7 @@
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
         <a href="https://veggieapi.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <p>
@@ -94,7 +94,7 @@
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
         <a href="https://nativedadsnetwork.org/" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <p>
@@ -113,7 +113,7 @@
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
         <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <p>
