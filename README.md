@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">I am a passionate full stack developer from California</h1>
 
-## Connect
+<h3 align="left">Connect with me:</h3>
 
 <p align="center">
   <a href="https://hollowhornbear.com/"  target="_blank"><img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABOUExUReYsWg+r9jllvhee7Bem8eYsWuUsWg+r9kFYtExpcdIxZSp+0o1DilJTq+QsW+ItXBCp9YNxrm1NnA+r9hCo9OYsWg+r9rE6dzxuwnJPnMSYTBgAAAAadFJOU8uJ8dIYFobL+gDR4+P1sWNiCei0rTY62aim9YOEpgAAANZJREFUOMt90+0SRDAMQNGgRbDaULX7/i+6mEY/tO7fnJmYTgAibe0Ms5KYDRC3Fo5KAlBe86IA2mZ4EyAVwJsA3jAczUoEUQT2aTn7Vj5thQf70l/VY9PdGS0YDG6eiFWTA/unzwpjHZj6Pi80PUEkKuHApyAY7BEIBINhKggGRXGDkvCgIALwFCl4iDEFqXCA/MEkwgG8Ty4RNQNSecEfiSizouZ3wPPPUa3vV5/5l7wuk6RPaNMcdRGIEnr1B5MDgVgt5cAhDG/ALGBRWSqAa8t6zvEP3akc0/X2NW8AAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=&logoColor=white" alt="Website" title="Website" /></a>
@@ -16,15 +16,6 @@
   <a href="#!" target="_blank"><img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb" alt="Resume" title="Resume" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://hollowhornbear.com/](https://hollowhornbear.com/)
-
-- 📫 How to reach me **isaachollowhorn@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@isaachhb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@isaachhb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isaac hollow horn bear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac hollow horn bear" height="30" width="40" /></a>
-</p>
 
  Making technology make sense, ask me about anything!
 
