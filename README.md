@@ -104,15 +104,15 @@
     <td width="50%" valign="top">
       <h3 align="center">Hollow Horn Bear Website</h3>
       <br />
-      <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
+      <a href="https://hollowhornbear.com/" target="_blank">
         <img src="https://user-images.githubusercontent.com/99921497/179323060-6baea5b4-f5b8-4dd2-bda9-9474bf224886.png" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/RascalTwo/Twitch-Chat-Poll-Visualizer" target="_blank">
+        <a href="[https://github.com/RascalTwo/Twitch-Chat-Poll-Visualizer](https://github.com/IsaacHHB/isaac-website2)" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
+        <a href="https://hollowhornbear.com/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
