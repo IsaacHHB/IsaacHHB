@@ -109,7 +109,7 @@
       </a>
       <br />
       <p align="center">
-        <a href="[https://github.com/RascalTwo/Twitch-Chat-Poll-Visualizer](https://github.com/IsaacHHB/isaac-website2)" target="_blank">
+        <a href="https://github.com/IsaacHHB/isaac-website2" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
         <a href="https://hollowhornbear.com/" target="_blank">
