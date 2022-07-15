@@ -37,6 +37,46 @@
 <table bordercolor="#33bef5">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Native Dads Network</h3>
+      <br />
+      <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
+        <img src="https://user-images.githubusercontent.com/99921497/173471478-1d17787f-63f0-41f2-bc3f-4ccb5b39ea82.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://nativedadsnetwork.org/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>JavaScript, HTML, CSS, SCSS, PHP, JSON</strong> - Client Project redoing their entire website
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Hollow Horn Bear Website</h3>
+      <br />
+      <a href="https://hollowhornbear.com/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/99921497/179323060-6baea5b4-f5b8-4dd2-bda9-9474bf224886.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/IsaacHHB/isaac-website2" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://hollowhornbear.com/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>JavaScript, HTML, CSS, and JSON</strong> - My website for my portfolio.
+      </p>
+    </td>
+  </tr> 
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Star Trek App</h3>
       <br />
       <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
@@ -81,44 +121,4 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Native Dads Network</h3>
-      <br />
-      <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/173471478-1d17787f-63f0-41f2-bc3f-4ccb5b39ea82.png" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-        <a href="https://nativedadsnetwork.org/" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
-        </a>
-      </p>
-      <p>
-        <strong>JavaScript, HTML, CSS, SCSS, PHP, JSON</strong> - Client Project redoing their entire website
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Hollow Horn Bear Website</h3>
-      <br />
-      <a href="https://hollowhornbear.com/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/179323060-6baea5b4-f5b8-4dd2-bda9-9474bf224886.png" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/IsaacHHB/isaac-website2" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-        <a href="https://hollowhornbear.com/" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
-        </a>
-      </p>
-      <p>
-        <strong>JavaScript, HTML, CSS, and JSON</strong> - My website for my portfolio.
-      </p>
-    </td>
-  </tr> 
 </table>
