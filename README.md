@@ -101,11 +101,11 @@
         <strong>JavaScript, HTML, CSS, SCSS, PHP, JSON</strong> - Client Project redoing their entire website
       </p>
     </td>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">Twitch Chat Poll Visualizer</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Hollow Horn Bear Website</h3>
       <br />
       <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
+        <img src="https://user-images.githubusercontent.com/99921497/179323060-6baea5b4-f5b8-4dd2-bda9-9474bf224886.png" />
       </a>
       <br />
       <p align="center">
@@ -120,5 +120,5 @@
         <strong>Chart.js, Twitch, JavaScript, HTML, CSS, and JSON</strong> - Generator of Pie & Line charts showcasing the responses of a Twitch chat to impromptu polls
       </p>
     </td>
-  </tr> -->
+  </tr> 
 </table>
