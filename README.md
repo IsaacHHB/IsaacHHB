@@ -117,7 +117,7 @@
         </a>
       </p>
       <p>
-        <strong>Chart.js, Twitch, JavaScript, HTML, CSS, and JSON</strong> - Generator of Pie & Line charts showcasing the responses of a Twitch chat to impromptu polls
+        <strong>JavaScript, HTML, CSS, and JSON</strong> - My website for my portfolio.
       </p>
     </td>
   </tr> 
