@@ -13,7 +13,7 @@
   <a href="https://twitter.com/IsaacHHB" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter" /></a>
   <a href="https://github.com/IsaacHHB" target="_blank"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" title="Github" /></a>
   <a href="https://www.linkedin.com/in/isaachhb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
-  <a href="#!" target="_blank"><img src="https://img.shields.io/badge/-AngelList-fff?style=for-the-badge&logo=angelList&logoColor=black" alt="AngelList" title="AngelList" /></a>
+  <a href="https://angel.co/u/isaac-hollow-horn-bear" target="_blank"><img src="https://img.shields.io/badge/-AngelList-fff?style=for-the-badge&logo=angelList&logoColor=black" alt="AngelList" title="AngelList" /></a>
   <a href="https://hollowhornbear.com/IsaacResume2022.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb" alt="Resume" title="Resume" /></a>
 </p>
 
