@@ -120,5 +120,24 @@
         <strong>JavaScript, HTML, CSS, JSON</strong> - Check the UPC barcode if the product you purchased is vegetarian.
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Vegetarian API</h3>
+      <br />
+      <a href="https://github.com/IsaacHHB/Veg-API" target="_blank">
+        <img src="https://user-images.githubusercontent.com/99921497/188972022-146e5a62-c3a1-4d37-bc6e-4aae34efee6f.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/IsaacHHB/MenuHub" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>Node.js, EJS, JavaScript, HTML, CSS, JSON</strong> - Keep track of your favorite restuarants online menus!
+      </p>
+    </td>
   </tr>
 </table>
