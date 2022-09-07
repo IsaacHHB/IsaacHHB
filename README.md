@@ -120,6 +120,8 @@
         <strong>JavaScript, HTML, CSS, JSON</strong> - Check the UPC barcode if the product you purchased is vegetarian.
       </p>
     </td>
+   </tr>
+   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Vegetarian API</h3>
       <br />
