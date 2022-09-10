@@ -17,8 +17,8 @@
   <a href="https://hollowhornbear.com/IsaacResume2022.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb" alt="Resume" title="Resume" /></a>
 </p>
 
-
- Making technology make sense, ask me about anything!
+ <h3>The project i'm currently working on can be found <a href="https://github.com/IsaacHHB/NativeStoryBooks" target="_blank">Here</a></h3>
+ <p>Making technology make sense, ask me about anything!</p>
 
 <!-- ![GitHub Snake Light](./assets/github-snake-light.svg#gh-light-mode-only)
 ![GitHub Snake Dark](./assets/github-snake-dark.svg#gh-dark-mode-only)
