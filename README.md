@@ -123,7 +123,7 @@
    </tr>
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Vegetarian API</h3>
+      <h3 align="center">Menu Tracker</h3>
       <br />
       <a href="https://github.com/IsaacHHB/Veg-API" target="_blank">
         <img src="https://user-images.githubusercontent.com/99921497/188972022-146e5a62-c3a1-4d37-bc6e-4aae34efee6f.png" />
