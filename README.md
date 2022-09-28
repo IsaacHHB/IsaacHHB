@@ -56,22 +56,22 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Hollow Horn Bear Website</h3>
+      <h3 align="center">Native Story Books</h3>
       <br />
-      <a href="https://hollowhornbear.com/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/179323060-6baea5b4-f5b8-4dd2-bda9-9474bf224886.png" />
+      <a href="http://nativestorybooks.herokuapp.com/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/99921497/192878628-1aad0265-0a45-4e7e-8f5e-bdd5a642375e.png" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/isaac-website2" target="_blank">
+        <a href="https://github.com/IsaacHHB/NativeStoryBooks" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://hollowhornbear.com/" target="_blank">
+        <a href="http://nativestorybooks.herokuapp.com/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS, and JSON</strong> - My website for my portfolio.
+        <strong>Node, Express, MongoDB, Mongoose, JavaScript, HTML, HandleBars, CSS, and JSON</strong> - A full stack web application for uploading traditional tribal          stories to.
       </p>
     </td>
   </tr> 
