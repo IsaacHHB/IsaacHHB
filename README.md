@@ -76,31 +76,7 @@
     </td>
   </tr> 
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Star Trek App</h3>
-      <br />
-      <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/173469258-825fb1d6-149f-4504-96e0-e336d9c320a7.png" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-        <a href="https://startrekinfo.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
-        </a>
-      <p align="center">Also take a look at the back end code hosted on Heroku</p>
-      <p align="center">
-        <a href="https://github.com/IsaacHHB/star-trek-api" target="_blank">
-          <img align="center" src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-      </p>
-      </p>
-      <p>
-        <strong>JavaScript, HTML, CSS, JSON, Node.JS, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
-      </p>
-    </td>
+   
     <td width="50%" valign="top">
       <h3 align="center">Vegetarian API</h3>
       <br />
@@ -139,6 +115,31 @@
       </p>
       <p>
         <strong>Node.js, EJS, JavaScript, HTML, CSS, JSON</strong> - Keep track of your favorite restuarants online menus!
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Star Trek App</h3>
+      <br />
+      <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
+        <img src="https://user-images.githubusercontent.com/99921497/173469258-825fb1d6-149f-4504-96e0-e336d9c320a7.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://startrekinfo.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+        </a>
+      <p align="center">Also take a look at the back end code hosted on Heroku</p>
+      <p align="center">
+        <a href="https://github.com/IsaacHHB/star-trek-api" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+      </p>
+      </p>
+      <p>
+        <strong>JavaScript, HTML, CSS, JSON, Node.JS, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
       </p>
     </td>
   </tr>
