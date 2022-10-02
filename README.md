@@ -58,7 +58,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Native Story Books</h3>
       <br />
-      <a href="http://nativestorybooks.herokuapp.com/" target="_blank">
+      <a href="https://github.com/IsaacHHB/NativeStoryBooks" target="_blank">
         <img src="https://user-images.githubusercontent.com/99921497/192878628-1aad0265-0a45-4e7e-8f5e-bdd5a642375e.png" />
       </a>
       <br />
