@@ -70,7 +70,7 @@
         <a href="https://github.com/IsaacHHB/NativeStoryBooks" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://native-story-books.onrender.com/" target="_blank">
+        <a href="https://native-story-books.onrender.com" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
