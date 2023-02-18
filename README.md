@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaachhb&show_icons=true&locale=en&layout=compact" alt="isaachhb" /></p>
 
-![](https://www.codewars.com/users/IsaacHHB/badges/small)
+![](https://www.codewars.com/users/IsaacHHB/badges/large)
 
 <!-- [![](https://visitcount.itsvg.in/api?id=IsaacHHB&icon=5&color=3)](https://visitcount.itsvg.in) -->
 
