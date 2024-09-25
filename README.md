@@ -5,6 +5,7 @@
 </p>
 <h1 align="center">I am a passionate full stack developer from California</h1>
 
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
