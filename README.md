@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:47C1EE&height=220&section=header&text=Isaac%20Hollow%20Horn%20Bear&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=The%20Lakota%20Dev%20%C2%B7%20Full-Stack%20%26%20DevOps%20%C2%B7%20Sicangu%20Lakota%20%C2%B7%20Sacramento%2C%20CA&descSize=18&descAlignY=58&descAlign=50" alt="Isaac Hollow Horn Bear" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:47C1EE&height=220&section=header&text=Isaac%20Hollow%20Horn%20Bear&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=The%20Lakota%20Dev%20%C2%B7%20Full-Stack%20and%20DevOps%20%C2%B7%20Sicangu%20Lakota%20%C2%B7%20Sacramento%2C%20CA&descSize=18&descAlignY=58&descAlign=50" alt="Isaac Hollow Horn Bear" width="100%" />
 </p>
 
 <h2 align="center">Háu 👋</h2>
@@ -18,8 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=IsaacHHB&style=for-the-badge&color=47C1EE&label=Visitors" alt="Profile views" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
-
 ## About me
 
 I build and run web apps end to end. Database, servers, deploys, and the screen someone actually taps on. Seven years of it so far, most of that on Laravel and React, lately with a lot of Expo and Electron mixed in.
@@ -29,8 +27,6 @@ I'm Sicangu Lakota, and the way I work comes from that. Patience with the proble
 - Building [thelakotadev.com](https://thelakotadev.com), my own platform and the home of Native StoryBooks
 - The parts I enjoy most are the ones nobody sees: realtime systems, slow queries, self-managed infra, and a little ML
 - Ask me anything. Making technology make sense is most of the job.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## What I'm building
 
@@ -103,8 +99,6 @@ I'm Sicangu Lakota, and the way I work comes from that. Patience with the proble
   <p><a href="https://github.com/IsaacHHB?tab=repositories"><img src="https://img.shields.io/badge/-All_repos-6e7681?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
-
 ## Tools I reach for
 
 <p align="center">
@@ -118,8 +112,6 @@ I'm Sicangu Lakota, and the way I work comes from that. Patience with the proble
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
-
 ## Where I've worked
 
 **Senior full-stack developer and DevOps engineer** at Interstate Advanced Materials, 2023 to now.
@@ -131,14 +123,11 @@ Custom apps and architecture consulting for small and medium businesses.
 **Full-stack developer (contract)** at 100Devs Agency, 2020 to 2023.
 MERN apps for a range of clients in Scrum teams, with code review and quality ownership.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
-
 ## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IsaacHHB&theme=tokyonight&hide_border=true&background=0d1117&ring=47C1EE&fire=47C1EE&currStreakLabel=47C1EE" alt="Contribution streak" />
 </p>
-
 
 <p align="center">
   <picture>
