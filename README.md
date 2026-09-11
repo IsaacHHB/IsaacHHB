@@ -114,14 +114,17 @@ I'm Sicangu Lakota, and the way I work comes from that. Patience with the proble
 
 ## Where I've worked
 
-**Senior full-stack developer and DevOps engineer** at Interstate Advanced Materials, 2023 to now.
-I architect and operate LAMP apps on self-managed AWS EC2. I designed a Python credit-assessment model that cut manual review by about 80 percent, a realtime credit-check rules engine, the Argos OAuth2 REST API, and the FOCUS CRM with realtime workflows over Laravel Reverb, Redis queues, and caching.
+**Founding engineer** at Minnirva, April 2026 to now.
+I architected and built a five-app B2B SaaS platform: Scout, Focus, Lens, a self-service customer portal, and a central billing and provisioning control plane. That's 215,000+ lines of production code and 1,000+ automated tests. Each tenant gets its own EC2 and MariaDB environment behind a shared identity and billing hub, with SSO, passkeys and TOTP, Secrets Manager credentials, and least-privilege access. Scout is an AI prospecting engine that scores leads by consensus across Gemini, Claude, and OpenAI, finds them through Google Places, enriches contacts, runs overnight searches, drafts outreach, hands off to the CRM, and meters LLM cost per call. Lens turns plain English into SQL against SaaS and on-prem ERP data, with live schema introspection, layered read-only guards, saved reports, execution audits, and scheduled CSV delivery. I also built the AWS tenant lifecycle and Stripe billing, where a payment provisions EC2, schemas, users, secrets, and S3 backups, and webhooks are idempotent. Stack is Laravel 13, PHP 8.5, React 19, TypeScript, Inertia, Tailwind, Pest, MariaDB, Typesense, Bash, and AWS.
 
-**Founder and full-stack developer** at The Lakota Dev, 2019 to now.
-Custom apps and architecture consulting for small and medium businesses.
+**Senior full-stack developer and DevOps engineer** at Interstate Advanced Materials, February 2023 to April 2026.
+I built and operated Laravel and React apps on AWS EC2, owning architecture, provisioning, CI/CD, monitoring, production support, code review, and mentoring. I developed the Focus CRM with SYSPRO ERP sync and realtime workflows, the OAuth2-protected Argos B2B ordering API, and DocuSign-based digital credit onboarding. A D&B-backed Python credit-assessment model and realtime rules engine cut manual credit review time by 80 percent.
 
-**Full-stack developer (contract)** at 100Devs Agency, 2020 to 2023.
-MERN apps for a range of clients in Scrum teams, with code review and quality ownership.
+**Founder and full-stack developer** at The Lakota Dev, January 2019 to now.
+Accessible websites and applications for Native organizations and small businesses, including the Native Stories storytelling platform.
+
+**Software engineer** at 100Devs, October 2020 to February 2023.
+Responsive MERN apps from client discovery through deployment, in an agile team.
 
 ## Activity
 
